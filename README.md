@@ -15,7 +15,7 @@ As a professor, I am committed to providing early research experience for underg
 
 * To learn about numerical models and machines, students need to be able to play with the models and machines!
 
-Why do I share all my educational content? Find out [here](https://medium.com/5-questions-with/why-its-important-that-professors-use-social-media-5-questions-with-associate-professor-michael-a921225287fb).
+Why do I share all of my educational content? Find out [here](https://medium.com/5-questions-with/why-its-important-that-professors-use-social-media-5-questions-with-associate-professor-michael-a921225287fb).
 
 I use these demonstrations for:
 
