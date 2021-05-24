@@ -1,7 +1,3 @@
-# Undergraduate_Research
-Undergraduate research projects.
-
-
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
