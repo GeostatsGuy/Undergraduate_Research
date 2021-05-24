@@ -11,39 +11,19 @@ Students learning valuable skills while making content to support students learn
 
 * Interested in these great students for internships and full-time hires? Please see the contact information on the workflows!
 
+As a professor, I am committed to providing early research experience for undergraduate students and to build out great educational content. 
+
+* To learn about numerical models and machines, students need to be able to play with the models and machines!
+
+Why do I share all my educational content? Find out [here](https://medium.com/5-questions-with/why-its-important-that-professors-use-social-media-5-questions-with-associate-professor-michael-a921225287fb).
+
 I use these demonstrations for:
 
 1. in-lecture walkthroughs 
 2. hands-on experiential learning with specific tasks suggested in the accompanying lecture notes
 3. example workflows to support my students
 
-Other resources that you might be interested in include:
-
-*  [R workflow repository](https://github.com/GeostatsGuy/geostatsr)
-*  [Excel workflow repository](https://github.com/GeostatsGuy/ExcelNumericalDemos)
-*  [GeostatsPy package](https://github.com/GeostatsGuy/GeostatsPy)
-
-While I have more than 20 years experience coding in FORTRAN, C++ and VBA, I just started with Python a couple of years ago. I love it.  I code less and get more done!  I recommend Python to any engineers or scientists.  Here's some reasons to learn to code:
-
-1. __Transparency__ – no compiler accepts hand waiving! Coding forces your logic to be uncovered for any other scientist or engineer to review.
-
-2. __Reproducibility__ – run it, get an answer, hand it over, run it, get the same answer. This is a main principle of the scientific method.
-
-3. __Quantification__ – programs need numbers. Feed the program and discover new ways to look at the world.
-
-4. __Open-source__ – leverage a world of brilliance. Check out packages, snippets and be amazed with what great minds have freely shared.
-
-5. __Break Down Barriers__ – don’t throw it over the fence. Sit at the table with the developers and share more of your subject matter expertise for a better product.
-
-6. __Deployment__ – share it with others and multiply the impact. Performance metrics or altruism, your good work benefits many others.
-
-7. __Efficiency__ – minimize the boring parts of the job. Build a suite of scripts for automation of common tasks and spend more time doing science and engineering!
-
-8. __Always Time to Do it Again!__ – how many times did you only do it once? It probably takes 2-4 times as long to script and automate a workflow.  Usually worth it.
-
-9. __Be Like Us__ – it will change you. Users feel limited, programmers truly harness the power of their applications and hardware. 
-
-Alright, that is enough of my ranting. Especially, since I haven't even introduced myself yet!
+I hope you find these resources useful. 
 
 #### The Supervisor and Coauthor:
 
